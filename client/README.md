@@ -10,7 +10,7 @@ This is a customized version of the original MERN Ecommerce project.
 ## Author
 Aditya Vats
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Client:**
 - React.js
@@ -43,7 +43,7 @@ E-COMMERCE/
 1. Clone the repository (copy project to your computer):
 
    ```bash
-   git clone https://github.com/adityavats21/your-repo.git
+   git clone https://github.com/adityavats21/mern-ecommerce-custom.git
    cd your-repo
 
 2. Install project dependencies (these are the tools the app needs):
@@ -58,5 +58,5 @@ npm run dev
 ```markdown
 4. Create a `.env` file in the root folder and add the following:
 PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
+MONGO_uri
+JWT_SECRET
